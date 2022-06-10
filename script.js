@@ -6,7 +6,6 @@ const bookH2 = books[4].querySelector('a');
 let advertising = document.querySelector(".adv");
 const bookChapters2 = books[0].querySelectorAll("li");
 const bookChapters5 = books[5].querySelectorAll("li");
-// const bookChapters = document.querySelectorAll("li");
 
 // 1.
 books[0].before(books[1]);
